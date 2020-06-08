@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Assign2-Solution</title>
-    <link rel="stylesheet" type="text/css" href="cssfile.css">
+    
 </head>
 <body>
 	<h1>Medical Herbs</h1>
